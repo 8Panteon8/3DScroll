@@ -12,7 +12,7 @@
   --transition: 0.75s cubic-bezier(0.075, 0.5, 0, 1);
 }
 
-/* Скрываем Scrollbar */
+/* Hide Scrollbar */
 body {
   scrollbar-width: none; /* Firefox */
 }
